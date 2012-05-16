@@ -1,0 +1,261 @@
+wand
+wand of magic missile ($mb)
+12
+0
+0
+100
+0
+12
+2
+wand
+wand of sense rooms ($mb)
+12
+2
+0
+100
+0
+12
+2
+wand
+wand of minor cure ($mb)
+12
+4
+0
+100
+0
+12
+2
+wand
+wand of fire bolt ($mb)
+12
+7
+0
+100
+0
+12
+2
+wand
+wand of frost bolt ($mb)
+12
+8
+0
+100
+0
+12
+2
+wand
+wand of lightning bolt ($mb)
+12
+9
+0
+100
+0
+12
+3
+wand
+wand of identify ($mb)
+12
+12
+0
+100
+0
+12
+3
+wand
+wand of major quake ($mb)
+12
+13
+0
+100
+0
+12
+3
+wand
+wand of mana short ($mb)
+12
+16
+0
+100
+0
+12
+3
+wand
+wand of aura ($mb)
+12
+17
+0
+100
+0
+12
+2
+food ration
+food ration
+13
+6
+20
+0
+0
+110
+2
+large food ration
+large food ration
+13
+6
+30
+0
+0
+160
+2
+chunk of meat
+chunk of meat
+13
+4
+5
+0
+0
+30
+1
+apple
+apple
+13
+12
+1
+0
+0
+18
+1
+bread
+bread
+13
+7
+10
+0
+0
+80
+1
+hard bread
+dwarven bread
+13
+7
+10
+1
+11
+80
+3
+lembas
+lembas
+13
+15
+50
+0
+0
+15
+3
+shovel
+shovel
+14
+0
+0
+101
+14
+50
+1
+pickaxe
+pickaxe
+14
+0
+0
+101
+14
+70
+2
+rock
+rock [$bon]
+15
+1
+10
+99
+25
+4
+1
+arrow
+arrow [$bon]
+15
+2
+12
+99
+25
+2
+1
+bolt
+bolt [$bon]
+15
+3
+12
+99
+25
+2
+1
+boomerang
+boomerang [$bon] $spc
+15
+0
+15
+17
+26
+15
+2
+sling
+sling (x$bon)
+16
+1
+2
+99
+24
+25
+1
+short bow
+short bow (x$bon)
+16
+2
+2
+99
+24
+25
+1
+light crossbow
+light crossbow (x$bon)
+16
+3
+2
+99
+24
+45
+1
+heavy crossbow
+heavy crossbow (x$bon)
+16
+3
+4
+99
+24
+80
+2
+long bow
+long bow (x$bon)
+16
+2
+3
+99
+24
+40
+2
+long bow
+elven long bow (x$bon)
+16
+2
+4
+99
+24
+35
+3

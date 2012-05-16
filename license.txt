@@ -1,0 +1,11 @@
+You can freely modify, recompile and distribute the LoRD sources, data
+files and/or the resulting program if you agree to the following
+conditions:
+1) You do not use the sources or the resulting program for commercial
+   purposes.
+2) Your modified program will not be called "Lord of Rage and Death"
+   and it will contain a message that it is a variant and I have no
+   responsibility for it.
+3) You use the program at your own risk. I give NO WARRANTY.
+
+1999 Vaclav Jucha

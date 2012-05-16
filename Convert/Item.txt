@@ -1,0 +1,1206 @@
+gold pieces
+$mb gold pieces
+0
+0
+0
+101
+0
+1
+1
+black sword
+Black Sword [$bon] $spc
+1
+2
+30
+30
+1
+190
+5
+blood-red cloak
+Defence Cloak [$bon]
+9
+4
+5
+40
+3
+40
+5
+boots
+Wind Boots [$bon] $spc
+5
+1
+5
+5
+4
+35
+5
+shuriken
+Silver Shuriken [$bon] $spc
+15
+0
+20
+10
+26
+7
+5
+bone necklace
+Necklace of Ash $spc
+8
+0
+0
+3
+15
+12
+5
+crown
+Crown "Life Guardian" [$bon] $spc
+4
+2
+3
+6
+11
+120
+5
+stone heart
+Lord's heart
+17
+4
+0
+0
+0
+5
+5
+burning suit
+Suit of Flames [$bon]
+3
+1
+25
+3
+30
+40
+5
+gauntlets
+War Gauntlets [$bon] $spc
+6
+2
+15
+20
+2
+40
+4
+massive hammer
+Hammer of Crushing [$bon] $spc
+1
+14
+71
+2
+8
+490
+4
+glowing staff
+Defender's Staff [$bon] $spc
+1
+15
+40
+30
+3
+85
+4
+shovel
+Dwarven Shovel "Miner's Dream"
+14
+0
+0
+30
+14
+50
+4
+gleaming plate mail
+Holy Crusader's Plate [$bon] $spc
+3
+3
+40
+5
+12
+430
+4
+cloak
+Cloak "Asbestos" [$bon] $spc
+9
+12
+5
+2
+15
+40
+4
+gleaming long sword
+Holy Blade [$bon] ($mb$spc)
+1
+2
+25
+1
+27
+160
+4
+ring
+Cursed Ring of Heresy $spc
+7
+0
+0
+-10
+12
+1
+4
+long bow
+Long Bow of Squint (x$bon)
+16
+2
+3
+-20
+24
+40
+4
+leather cap
+Elven Cap of 6th Sense [$bon] $spc
+4
+1
+7
+1
+5
+20
+4
+plate mail
+Ever-rusty Plate Mail [$bon]
+3
+2
+30
+-20
+3
+400
+4
+dagger
+Dagger "Dancing Death" [$bon] $spc
+1
+1
+15
+15
+4
+20
+4
+shield
+Rune Shield "Protector" [$bon] $spc
+2
+2
+25
+2
+18
+290
+4
+sling bullet
+Spiked Bullet "DumDum" [$bon]
+15
+1
+20
+30
+25
+5
+4
+light emanating potion
+Potion of Divinity
+10
+0
+0
+0
+255
+5
+4
+cloak
+Shadow Cloak [$bon] $spc
+9
+8
+5
+30
+29
+30
+4
+glistering boots
+Ten Ton Boots [$bon] $spc
+5
+2
+10
+-10
+7
+35
+4
+heavy crossbow with eye emblem
+Heavy Crossbow "Eye" (x$bon) $spc
+16
+3
+6
+30
+24
+80
+4
+dagger
+dagger of assasination [$bon] $spc
+1
+1
+5
+101
+29
+20
+2
+dagger
+dagger [$bon]
+1
+1
+5
+99
+2
+20
+1
+short sword
+short sword [$bon]
+1
+2
+7
+99
+2
+55
+1
+long sword
+sword of fencing [$bon] $spc
+1
+2
+25
+101
+1
+160
+3
+long sword
+long sword [$bon]
+1
+2
+25
+99
+2
+160
+2
+battle axe
+battle axe [$bon]
+1
+3
+25
+99
+2
+220
+2
+great axe
+trollish axe [$bon] ($mb$spc)
+1
+13
+40
+90
+27
+300
+3
+great axe
+great axe [$bon]
+1
+13
+40
+99
+2
+300
+2
+war hammer
+war hammer [$bon]
+1
+4
+30
+99
+2
+290
+2
+heavy war hammer
+heavy war hammer [$bon]
+1
+14
+45
+99
+2
+370
+2
+quarterstaff
+quarterstaff [$bon]
+1
+15
+30
+99
+2
+120
+1
+wooden shield
+wooden shield [$bon]
+2
+1
+5
+99
+3
+55
+1
+shield
+shield [$bon]
+2
+2
+8
+99
+3
+180
+2
+large shield
+large shield [$bon]
+2
+2
+12
+99
+3
+250
+2
+shield
+mithril shield [$bon]
+2
+3
+15
+99
+3
+120
+3
+large shield
+large mithril shield [$bon]
+2
+3
+18
+99
+3
+210
+3
+robe
+robe [$bon]
+3
+1
+5
+99
+3
+40
+1
+leather armor
+leather armor [$bon]
+3
+1
+8
+99
+3
+100
+1
+leather cuirass
+leather cuirass [$bon]
+3
+1
+12
+99
+3
+110
+1
+chain mail
+chain mail [$bon]
+3
+2
+18
+99
+3
+370
+2
+plate mail
+plate mail [$bon]
+3
+2
+25
+99
+3
+400
+2
+chain mail
+mithril chain mail [$bon]
+3
+3
+30
+99
+3
+300
+3
+plate mail
+mithril plate mail [$bon]
+3
+3
+40
+99
+3
+350
+3
+leather cap
+leather cap [$bon]
+4
+1
+4
+99
+3
+20
+1
+helm
+helm [$bon]
+4
+2
+8
+99
+3
+60
+2
+helm
+mithril helm [$bon]
+4
+3
+12
+99
+3
+45
+3
+sandals
+sandals [$bon]
+5
+1
+3
+99
+3
+10
+1
+boots
+boots [$bon]
+5
+2
+6
+99
+3
+35
+2
+boots
+mithril boots [$bon]
+5
+3
+10
+99
+3
+30
+3
+gloves
+gloves of carrying [$bon] $spc
+6
+1
+4
+101
+7
+25
+2
+gloves
+leather gloves [$bon]
+6
+1
+4
+99
+3
+25
+1
+gauntlets
+gauntlets [$bon]
+6
+2
+8
+99
+3
+50
+2
+gauntlets
+mithril gauntlets [$bon]
+6
+3
+12
+99
+3
+40
+3
+ring
+ring of rage $spc
+7
+0
+0
+101
+2
+1
+3
+ring
+ring of accuracy $spc
+7
+0
+0
+101
+1
+1
+3
+ring
+ring of quick death $spc
+7
+0
+0
+-101
+3
+1
+3
+ring
+ring of godly might $spc
+7
+0
+0
+101
+8
+1
+3
+ring
+ring of swiftness $spc
+7
+0
+0
+101
+9
+1
+3
+ring
+ring of open mind $spc
+7
+0
+0
+101
+10
+1
+3
+ring
+ring of hardness $spc
+7
+0
+0
+101
+11
+1
+3
+ring
+ring of worshipping $spc
+7
+0
+0
+101
+12
+1
+3
+ring
+ring of weakness $spc
+7
+0
+0
+-101
+8
+1
+3
+ring
+ring of clumsiness $spc
+7
+0
+0
+-101
+9
+1
+3
+ring
+ring of stupidity $spc
+7
+0
+0
+-101
+10
+1
+3
+ring
+ring of delicacy $spc
+7
+0
+0
+-101
+11
+1
+3
+ring
+ring of heresy $spc
+7
+0
+0
+-101
+12
+1
+3
+cross necklace
+holy cross necklace $spc
+8
+0
+0
+2
+12
+12
+3
+amulet
+amulet of luck $spc
+8
+0
+0
+101
+13
+12
+3
+gray cloak
+cloak of assasination [$bon] $spc
+9
+7
+5
+101
+29
+40
+2
+cloak with emblem
+priestly cloak [$bon] $spc
+9
+14
+5
+1
+12
+40
+3
+cloak
+leather cloak [$bon]
+9
+6
+5
+99
+3
+40
+1
+potion
+potion of water
+10
+0
+0
+0
+0
+5
+1
+potion
+potion of mud
+10
+0
+0
+0
+103
+5
+1
+potion
+potion of poison
+10
+0
+0
+0
+100
+5
+2
+potion
+potion of strength
+10
+0
+0
+0
+1
+5
+2
+potion
+potion of dexterity
+10
+0
+0
+0
+2
+5
+2
+potion
+potion of learning
+10
+0
+0
+0
+3
+5
+2
+potion
+potion of constitution
+10
+0
+0
+0
+4
+5
+2
+potion
+potion of permanent strength
+10
+0
+0
+0
+5
+5
+3
+potion
+potion of permanent dexterity
+10
+0
+0
+0
+6
+5
+3
+potion
+potion of permanent learning
+10
+0
+0
+0
+7
+5
+3
+potion
+potion of permanent constitution
+10
+0
+0
+0
+8
+5
+3
+potion
+potion of berserk
+10
+0
+0
+0
+9
+5
+2
+potion
+potion of healing
+10
+0
+0
+0
+10
+5
+2
+potion
+potion of cure poison
+10
+0
+0
+0
+11
+5
+1
+potion
+potion of blindness
+10
+0
+0
+0
+101
+5
+2
+potion
+potion of confusion
+10
+0
+0
+0
+102
+5
+2
+potion
+potion of salt water
+10
+0
+0
+0
+103
+5
+2
+rune scroll
+rune scroll of magic missile
+11
+0
+0
+0
+0
+1
+2
+scroll
+scroll of magic missile
+11
+0
+0
+0
+0
+1
+1
+rune scroll
+rune scroll of minor quake
+11
+1
+0
+0
+0
+1
+3
+scroll
+scroll of minor quake
+11
+1
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of sense rooms
+11
+2
+0
+0
+0
+1
+2
+scroll
+scroll of sense rooms
+11
+2
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of item destruction
+11
+3
+0
+0
+0
+1
+2
+scroll
+scroll of item destruction
+11
+3
+0
+0
+0
+1
+1
+rune scroll
+rune scroll of minor cure
+11
+4
+0
+0
+0
+1
+2
+scroll
+scroll of minor cure
+11
+4
+0
+0
+0
+1
+1
+rune scroll
+rune scroll of remove curse
+11
+5
+0
+0
+0
+1
+2
+scroll
+scroll of remove curse
+11
+5
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of confusion
+11
+6
+0
+0
+0
+1
+3
+scroll
+scroll of confusion
+11
+6
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of fire bolt
+11
+7
+0
+0
+0
+1
+2
+scroll
+scroll of fire bolt
+11
+7
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of frost bolt
+11
+8
+0
+0
+0
+1
+2
+scroll
+scroll of frost bolt
+11
+8
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of lightning bolt
+11
+9
+0
+0
+0
+1
+2
+scroll
+scroll of lightning bolt
+11
+9
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of major cure
+11
+10
+0
+0
+0
+1
+2
+scroll
+scroll of major cure
+11
+10
+0
+0
+0
+1
+1
+rune scroll
+rune scroll of satiation
+11
+11
+0
+0
+0
+1
+3
+scroll
+scroll of satiation
+11
+11
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of identify
+11
+12
+0
+0
+0
+1
+2
+scroll
+scroll of identify
+11
+12
+0
+0
+0
+1
+2
+scroll
+scroll of major quake
+11
+13
+0
+0
+0
+1
+3
+rune scroll
+rune scroll of brainburn
+11
+14
+0
+0
+0
+1
+2
+scroll
+scroll of brainburn
+11
+14
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of astral portal
+11
+15
+0
+0
+0
+1
+3
+scroll
+scroll of astral portal
+11
+15
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of mana short
+11
+16
+0
+0
+0
+1
+2
+scroll
+scroll of mana short
+11
+16
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of aura
+11
+17
+0
+0
+0
+1
+2
+scroll
+scroll of aura
+11
+17
+0
+0
+0
+1
+1
+rune scroll
+rune scroll of shroud of death
+11
+18
+0
+0
+0
+1
+3
+scroll
+scroll of shroud of death
+11
+18
+0
+0
+0
+1
+2
+rune scroll
+rune scroll of recharge
+11
+19
+0
+0
+0
+1
+2
+scroll
+scroll of recharge
+11
+19
+0
+0
+0
+1
+2
